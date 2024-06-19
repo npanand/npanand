@@ -39,10 +39,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 </div>
 
-### DevOps
-<div align="center">
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-</div>
+
 
 <br />
 
@@ -60,19 +57,4 @@
 </div>
 
 <br />
-
-## Recent Blog Posts
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=npanand&&style=flat-square" align="center" />
-</div>
-
-<br />
-
-<br />
-
-----
-
-<div align="center">Generated using Markdown directly on GitHub</div>
+>
