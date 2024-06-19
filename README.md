@@ -2,7 +2,7 @@
   <img src="" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Anand, a full-time full-stack developer 👨‍💻 working in a startup company 🚀</div>
+### <div align="center"> I'm Anand, a passionate full-stack developer specializing in the MERN stack 🚀</div>
 
 - 🔭 I’m currently working on an Electron JS project
 - 🌱 I’m currently learning GraphQL
