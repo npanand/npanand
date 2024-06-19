@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="" align="center" style="width: 100%" />
-</div>
+
 
 ### <div align="center"> I'm Anand, a passionate full-stack developer specializing in the MERN stack 🚀</div>
 
@@ -53,15 +51,12 @@
 <br />
 
 ## GitHub Stats
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=npanand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npanand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npanand&theme=vue-dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npanand&theme=vue-dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=npanand&theme=vue-dark&hide_border=true" height="150" alt="stats graph"  />
 </div>
-###
+
