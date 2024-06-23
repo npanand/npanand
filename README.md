@@ -3,7 +3,7 @@
 ### <div align="center"> I'm Anand, a passionate full-stack developer specializing in the MERN stack 🚀</div>
 
 - 🔭 I’m currently working on an Electron JS project
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Frontend Indepth
 - ❓ Ask me about anything related to MERN stack and related technologies
 
 <br />
